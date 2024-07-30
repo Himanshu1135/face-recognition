@@ -1,0 +1,9 @@
+click==8.1.7
+cmake==3.30.1
+colorama==0.4.6
+dlib @ file:///D:/Himanshu_data_science/AI_projects/conda/face-recognition/dlib-19.22.99-cp39-cp39-win_amd64.whl#sha256=0fd828405c77af2df1ff6a09964a8ba7f14838c538d9017046804f353e9b4bc2
+face-recognition==1.3.0
+face-recognition-models==0.3.0
+numpy==1.23.5
+opencv-python==4.10.0.84
+pillow==10.4.0
